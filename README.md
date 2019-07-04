@@ -1,2 +1,2 @@
-This readme is now changes
+This readme is now changed
 #Including release notes
